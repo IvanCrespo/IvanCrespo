@@ -15,7 +15,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 <br/>
 
-## Skills, Languages, Frameworks & Tools 
+## Tech Stack 
 <br/>
 <div align="center">
   <a href="https://skillicons.dev">
@@ -25,17 +25,17 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 </div>
 <br/>
 
-## Stats 
+## GitHub Stats 
 <br/>
 <div align=center>
-  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IvanCrespo&layout=compact&theme=github_dark)
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=IvanCrespo&include_all_commits=true&count_private=true&theme=github_dark&show_icons=true&border_radius=10" alt="my Github Stats"/>
-</div>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IvanCrespo&layout=compact&theme=github_dark)
 
+<img src="https://github-readme-stats.vercel.app/api?username=IvanCrespo&include_all_commits=true&count_private=true&theme=github_dark&show_icons=true&border_radius=10" alt="my Github Stats"/>
+</div><br/>
 
-
+## Trophies
+<br/>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=IvanCrespo&theme=github_dark)](https://github.com/ryo-ma/github-profile-trophy)
 
