@@ -37,6 +37,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ## Trophies
 <br/>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=IvanCrespo&theme=github_dark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=IvanCrespo&theme=github_dark&column=3&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 
