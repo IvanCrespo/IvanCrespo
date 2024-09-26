@@ -19,9 +19,14 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <br/>
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,angular,bootstrap,css,devto,express,figma,firebase,html,js,jest,materialui,mongodb,mysql,nextjs,netlify,nodejs,postgres,postman,pug,react,redux,sqlite,tailwind,ts,vite" />
+    <img src="https://skillicons.dev/icons?i=git,angular,bootstrap,css,devto,express,figma,firebase,html,js,jest" />
+    <img src="https://skillicons.dev/icons?i=materialui,mongodb,mysql,nextjs,netlify,nodejs,postgres,postman,pug,react,redux,sqlite,tailwind,ts,vite" />
   </a>
 </div>
+<br/>
+
+## Stats 
+<br/>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IvanCrespo&layout=compact&theme=github_dark)
 
