@@ -29,11 +29,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <br/>
 <div align=center>
 
+<img src="https://github-readme-stats.vercel.app/api?username=IvanCrespo&include_all_commits=true&count_private=true&theme=github_dark&show_icons=true&border_radius=10" alt="my Github Stats"/>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IvanCrespo&layout=compact&theme=github_dark)
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=IvanCrespo&theme=github_dark&hide_border=false)
-
-<img src="https://github-readme-stats.vercel.app/api?username=IvanCrespo&include_all_commits=true&count_private=true&theme=github_dark&show_icons=true&border_radius=10" alt="my Github Stats"/>
 </div><br/>
 
 ## 🏆 Trophies
