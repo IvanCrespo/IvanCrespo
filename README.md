@@ -33,3 +33,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=IvanCrespo&theme=github_dark)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
