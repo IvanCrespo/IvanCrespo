@@ -42,3 +42,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=IvanCrespo&theme=github_dark&column=3&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 </div>
+<br/>
+
+## 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=IvanCrespo&limit=4&theme=github_dark&combine_all_yearly_contributions=true)
+
+<br/>
+
+[![](https://visitcount.itsvg.in/api?id=IvanCrespo&icon=0&color=0)](https://visitcount.itsvg.in)
