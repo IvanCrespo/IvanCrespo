@@ -45,8 +45,17 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <br/>
 
 ## 🔝 Top Contributed Repo
+<br/>
+<div align=center>
+
 ![](https://github-contributor-stats.vercel.app/api?username=IvanCrespo&limit=4&theme=github_dark&combine_all_yearly_contributions=true)
 
+</div>
+
+
 <br/>
+<div align=right>
 
 [![](https://visitcount.itsvg.in/api?id=IvanCrespo&icon=0&color=0)](https://visitcount.itsvg.in)
+
+</div>
