@@ -13,12 +13,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 * ✉️  You can contact me at [contacto.ivancrespo@gmail.com](mailto:contacto.ivancrespo@gmail.com)
 
-<div align="center"> 
-  <a href="https://www.linkedin.com/in/iv%C3%A1n-crespo-reyes/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-</div>
-
 <br/>
 ## Skills, Languages, Frameworks & Tools 
 <br/>
